@@ -1,8 +1,8 @@
 
-## Hi there 👋 I'm Giorgi
+## Hi there 👋 I'm Rahul Bagal
 
 [![Twitter Follow](https://img.shields.io/badge/follow-%40GioDalakishvili-231d9bf0?style=flat-square&logo=twitter)](https://twitter.com/rahulbagal)
-[![Website](https://bagal.in)
+[![Website](https://img.shields.io/website?down_color=grey&down_message=https%3A%2F%2Fbagal.in&logo=rss&style=flat-square&up_color=green&up_message=https%3A%2F%2Fbagal.in&url=https%3A%2F%2Fbagal.in)](https://bagal.in)
 [![Hire Rahul](https://img.shields.io/static/v1?label=Hire&message=Rahul&color=3863A0&style=flat-square&logo=upwork)](https://www.upwork.com/freelancers/~01cdf0ad5dcb28252d)
 <!--
 **rahulbagal/rahulbagal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
